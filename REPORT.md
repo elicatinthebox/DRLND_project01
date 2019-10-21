@@ -46,6 +46,13 @@ LR = 5e-4               # learning rate
 UPDATE_EVERY = 4        # how often to update the network     
 ```
 
+```
+STATE_SIZE = 37
+ACTION_SIZE = 4
+RANDOM SEED = 42
+```
+
+
 ### Results
 
 ![log](log.png)
